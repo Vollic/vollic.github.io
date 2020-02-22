@@ -1,6 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>能力提升Plan</title>
+    <url>/category/plan/2020%E4%B8%AA%E4%BA%BA%E8%83%BD%E5%8A%9B%E6%8F%90%E5%8D%87Plan/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><pre class="mermaid">graph LR
+A[个人能力提升计划] 
+  A-->A1(语言)
+    A1-->A11(Python)
+    A1-->A12(Golang)
+    A1-->A13(Scala)
+    A1-->A14(Shell)
+    A1-->A15(Java)
+  A-->A2(基本功)
+    A2-->A21(常用算法)
+    A2-->A22(数据结构)
+    A2-->A23(设计模式)
+  A-->A3(网络)
+    A3-->A31(IP)
+    A3-->A32(TCP)
+    A3-->A33(UDP)
+    A3-->A34(Socket)
+    A3-->A35(HTTP/HTTPS)
+  A-->A4(分布式系统)
+    A4-->A41(设计/开发)  
+    A4-->A42(负载均衡)  
+    A4-->A43(服务熔断)  
+    A4-->A44(服务高可用)  
+    A4-->A45(服务容灾)  
+    A4-->A46(服务限流/降级)  
+    A4-->A47(多线程开发/同步异步处理)  
+  A-->A5(容器技术)
+    A5-->A51(Docker)
+    A5-->A52(Kubernetes)
+  A-->A6(大数据生态及组件)
+    A6-->A61(Hadoop)
+    A6-->A62(HDFS)
+    A6-->A63(HBase)
+    A6-->A64(Hive)
+    A6-->A65(Spark)
+    A6-->A66(Flink)
+    A6-->A67(TensorFlow)
+    A6-->A68(Kafka)
+    A6-->A69(Zookeeper)
+    A6-->A610(Mongodb)
+    A6-->A611(Redis)
+  A-->A7(潜在能力)
+    A7-->A71(学习能力)
+    A7-->A72(动手能力)
+    A7-->A73(英语能力)
+    A7-->A74(排查问题能力)
+      A74-->A741(GDB)
+      A74-->A742(DLV)
+      A74-->A743(pprof:golang)
+      A74-->A744(trace)
+      A74-->A745(独立分析coredump能力)</pre>
+
+
+
+
+
+
+
+]]></content>
+      <categories>
+        <category>plan</category>
+      </categories>
+      <tags>
+        <tag>2020plan</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Golang 异常处理</title>
     <url>/category/Go/exception/Golang%20Exception/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="return-defer"><a href="#return-defer" class="headerlink" title="return/defer"></a>return/defer</h2><ul>
